@@ -1,0 +1,26 @@
+.DS_Store
+node_modules
+custom
+*.log
+*.sqlite*
+
+pgdata
+
+db.db
+CHANGELOG.md
+
+.versions
+.idea
+dist
+dev.db-journal
+*.db
+*.toml
+cypress/screenshots
+.angular
+# local env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.eslintcache
